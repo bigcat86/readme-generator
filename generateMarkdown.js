@@ -36,12 +36,12 @@ return `# ${data.title}
 ## Description
 ${data.description}
 ## Table of Contents
-${data.table[0]}
-${data.table[1]}
-${data.table[2]}
-${data.table[3]}
-${data.table[4]}
-${data.table[5]}
+* (${data.table[0]})[https://github.com/bigcat86/readme-generator/blob/main/READMEnew.md#${data.table[0]}]
+* (${data.table[1]})[https://github.com/bigcat86/readme-generator/blob/main/READMEnew.md#${data.table[1]}]
+* (${data.table[2]})[https://github.com/bigcat86/readme-generator/blob/main/READMEnew.md#${data.table[2]}]
+* (${data.table[3]})[https://github.com/bigcat86/readme-generator/blob/main/READMEnew.md#${data.table[3]}]
+* (${data.table[4]})[https://github.com/bigcat86/readme-generator/blob/main/READMEnew.md#${data.table[4]}]
+* (${data.table[5]})[https://github.com/bigcat86/readme-generator/blob/main/READMEnew.md#${data.table[5]}]
 ## Installation
 ${data.installation}
 ## Usage

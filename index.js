@@ -20,7 +20,7 @@ const questions = [
         message: 'Which of these would you like to add to your table of contents?',
         name: 'table',
         choices: [
-            '* Installation', '* Usage', '* License', '* Contributing', '* Tests', '* Questions'
+            'Installation', 'Usage', 'License', 'Contributing', 'Tests', 'Questions'
         ],
     },
     {

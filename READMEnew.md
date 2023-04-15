@@ -2,16 +2,16 @@
 ## Description
 description
 ## Table of Contents
-* Installation
-* Usage
-* License
-* Contributing
-* Tests
-* Questions
+* (Installation)[https://github.com/bigcat86/readme-generator/blob/main/READMEnew.md#Installation]
+* (Usage)[https://github.com/bigcat86/readme-generator/blob/main/READMEnew.md#Usage]
+* (License)[https://github.com/bigcat86/readme-generator/blob/main/READMEnew.md#License]
+* (Contributing)[https://github.com/bigcat86/readme-generator/blob/main/READMEnew.md#Contributing]
+* (Tests)[https://github.com/bigcat86/readme-generator/blob/main/READMEnew.md#Tests]
+* (Questions)[https://github.com/bigcat86/readme-generator/blob/main/READMEnew.md#Questions]
 ## Installation
-install
+install it
 ## Usage
-description
+use it
 ## License
 MIT
 ## Contributing
@@ -20,6 +20,7 @@ Me
 This
 ## Questions?
 
-https://github.com/bigcat86 -----
-Please contact me at the following email with further questions: holyroller86@hotmail.com
+https://github.com/bigcat86
+
+Please contact me at the following email with further questions: holyroller
   
