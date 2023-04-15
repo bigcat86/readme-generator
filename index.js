@@ -16,9 +16,12 @@ const questions = [
         name: 'description',
     },
     {
-        type: 'input',
-        message: 'List your table of contents?',
+        type: 'checkbox',
+        message: 'Which of these would you like to add to your table of contents?',
         name: 'table',
+        choices: [
+            '* Installation', '* Usage', '* License', '* Contributing', '* Tests', '* Questions'
+        ],
     },
     {
         type: 'input',
