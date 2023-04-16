@@ -35,7 +35,7 @@ const questions = [
     },
     {
         type: 'input',
-        message: 'What is the name & type of license?',
+        message: 'What is the type of license? (use underscore for spaces)',
         name: 'license',
     },
     {
@@ -76,7 +76,7 @@ function writeToFile(fileName, data) {
 function init() {
     inquirer.prompt(questions)
     .then((data) =>
-    writeToFile('READMEnew.md', data))    
+    writeToFile('READMEnew.md', data))   
 }
 
 // Function call to initialize app
