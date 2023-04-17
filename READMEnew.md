@@ -1,6 +1,6 @@
 # README Generator 
 ## Description
-This project generates a readme upon running index.js, given a prompt to the user.
+This project generates a professional readme after prompting the user for the content.
 ## Table of Contents
 * [Installation](https://github.com/bigcat86/readme-generator/blob/main/READMEnew.md#Installation)
 * [Usage](https://github.com/bigcat86/readme-generator/blob/main/READMEnew.md#Usage)
@@ -11,7 +11,7 @@ This project generates a readme upon running index.js, given a prompt to the use
 ## Installation
 Install node.js, run code
 ## Usage
-Use this project to create a professional readme for all your projects
+Use this project to create a readme.md file for all projects.
 ## License
 [![License: MPL_2.0](https://img.shields.io/badge/License-MPL_2.0-blue.svg)]
 
